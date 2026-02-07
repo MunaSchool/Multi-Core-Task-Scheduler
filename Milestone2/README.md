@@ -27,9 +27,5 @@ This project implements a multi-core execution system using a master-slave archi
 - Current process executing on each core
 - Memory state after each operation
 
-## Evaluation Criteria
-- Correctness of operations and scheduling
-- Accurate processor and memory monitoring
-
 ## Repository
 All code and documentation are available in this public repository.
